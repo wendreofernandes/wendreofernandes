@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Wendreo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">Hey, I'm Wendreo! <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="25px">
  <br/> </h2> 
 
  <ul align="center">
