@@ -1,10 +1,13 @@
-<h2 align="center">Hey, I'm Wendreo! <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="25px">
+<h2 align="center">Hey, I'm Wendreo! 
  <br/> </h2> 
-
- <ul align="center">
-  Software developer with +6 years of experience building and delivering softwares as mobile apps, web api’s, and desktop apps.<br></ul>
  
  <p align="center">
+
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="500px">
+
+   <ul align="center">
+  Software developer with +6 years of experience building and delivering softwares as mobile apps, web api’s, and desktop apps.<br></ul>
+
  <a href="https://www.linkedin.com/in/wendreof/">  
   <img src="https://komarev.com/ghpvc/?username=wendreofernandes" alt="Visits" />
 </div><br><br>
