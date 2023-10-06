@@ -15,3 +15,11 @@
 <a href="https://github.com/wendreofernandes/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendreofernandes&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendreofernandes&theme=tokyonight" alt="wendreofernandes" />
 <br/>
+
+## <p align="center"><h4 align="center"><samp>An Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
+
+<div>
+    <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/><br>
+    - 👨‍🎓 <samp><b>Graduated in Mobile applications development and Cloud Computing.<br>
+    - 💼 <samp>Back-end Developer.<br>
+</div>
