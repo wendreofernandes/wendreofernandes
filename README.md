@@ -6,9 +6,7 @@
     <a align="center" href="https://www.linkedin.com/in/wendreof/">  
     <img src="https://komarev.com/ghpvc/?username=wendreofernandes" alt="Visits" />
     </div><br><br>
-    <a align="center" href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a align="center" href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a align="center" href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a align="center" href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>    <a align="center" href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
   
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
