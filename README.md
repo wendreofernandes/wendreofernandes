@@ -19,6 +19,8 @@
 
 <div>
     <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/><br>
-    - 👨‍🎓 <samp><b>Graduated in Mobile applications development and Cloud Computing.<br>
+    - 👨‍🎓 <samp><b>Graduated in Mobile Applications<br>
+    - 👨‍🎓 <samp><b>Graduated in Cloud Computing.<br>
+    - 👨‍🎓 <samp><b>Undergraduated in Systems Analisys and Development.<br>
     - 💼 <samp>Back-end Developer.<br>
 </div>
