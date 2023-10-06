@@ -22,5 +22,5 @@
     - 👨‍🎓 <samp><b>Graduated in Mobile Applications<br>
     - 👨‍🎓 <samp><b>Graduated in Cloud Computing.<br>
     - 👨‍🎓 <samp><b>Undergraduated in Systems Analisys and Development.<br>
-    - 💼 <samp>Back-end Developer.<br>
+    - 💼 <samp><b>Back-end Developer.<br>
 </div>
