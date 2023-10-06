@@ -18,9 +18,5 @@
 ## <p align="center"><h4 align="center"><samp>An Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
 
 <div>
-    <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/><br>
-    - 👨‍🎓 <samp><b>Graduated in Mobile Applications<br>
-    - 👨‍🎓 <samp><b>Graduated in Cloud Computing.<br>
-    - 👨‍🎓 <samp><b>Undergraduated in Systems Analisys and Development.<br>
-    - 💼 <samp><b>Back-end Developer.<br>
+    <img align="center" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="50%"/><br>
 </div>
