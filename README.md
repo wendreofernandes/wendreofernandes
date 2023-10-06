@@ -18,5 +18,5 @@
 ## <p align="center"><h4 align="center"><samp>An Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
 
 <div>
-    <img align="center" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="50%"/><br>
+    <p align="center"><img align="center" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="50%"/><br></p>
 </div>
