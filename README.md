@@ -14,7 +14,6 @@
 <h2> Github Stats </h2> 
 <a href="https://github.com/wendreofernandes/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendreofernandes&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendreofernandes&theme=tokyonight" alt="wendreofernandes" />
-<br/>
 
 ## <p align="center"><h4 align="center"><samp>An Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
 
