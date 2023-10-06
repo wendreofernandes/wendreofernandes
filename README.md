@@ -1,6 +1,6 @@
 <h2>Hello there!</h2>
 
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/wendreofernandes?label=follow&style=social)](https://github.com/wendreofernandes)&nbsp;
+[![GitHub wendreofernandes](https://img.shields.io/github/followers/wendreofernandes?label=follow&style=social)](https://github.com/wendreofernandes)&nbsp;
 <a href="https://www.linkedin.com/in/wendreof/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn--blue" />
     </a>
