@@ -11,7 +11,7 @@
  
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
 
-## <p align="center"><h4 align="center"><samp>An Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
+## <p align="center"><h4 align="center"><samp>Software Developer, with work experience on back-end and mobile environments</samp></h4></p>
 
 <div>
     <p align="center"><img align="center" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="50%"/><br></p>
